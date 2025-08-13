@@ -6,6 +6,7 @@ sudo apt install -y gstreamer1.0-plugins-bad gstreamer1.0-plugins-good gstreamer
 sudo apt install -y gstreamer1.0-gtk3
 sudo apt install -y libglib2.0-dev libgstreamer-plugins-base1.0-dev
 sudo apt install -y libnice-dev gstreamer1.0-nice
+sudo apt install build-essential pkg-config libsoup-3.0-dev libjson-glib-dev
 
 git clone https://github.com/meetecho/simple-whep-client
 
