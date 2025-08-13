@@ -7,7 +7,7 @@ sudo apt install -y gstreamer1.0-gtk3
 sudo apt install -y libglib2.0-dev libgstreamer-plugins-base1.0-dev
 sudo apt install -y libnice-dev gstreamer1.0-nice
 
-git clone https://github.com/meetecho/simple-whep-client?tab=readme-ov-file
+git clone https://github.com/meetecho/simple-whep-client
 
 cd simple-whep-client
 make
