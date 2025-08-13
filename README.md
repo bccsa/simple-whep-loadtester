@@ -2,6 +2,8 @@
 
 A simple WHEP load tester based on [simple-whep-client](https://github.com/meetecho/simple-whep-client)
 
+**_At the moment it only does audio, you can add the video flag in the start.sh file, see [this](https://github.com/meetecho/simple-whep-client) on how to._**
+
 ## Usage
 
 install dependencies
